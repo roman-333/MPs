@@ -1,0 +1,11 @@
+//Objective, what they want us to learn
+-Read from and write to files using ifstream and ofstream respectively; ensure stream integrity is maintained throughout these processes; 
+    able to distinguish between different stream states.
+-Understand the differences between argument passing modes (value, reference) in the C++ language and communicate their appropriate usage.
+//Background, what to do...
+-Read in elevation data, process it, and then print out a grayscale topological image map. 
+This map will have multiple potential paths drawn on it in red with the best recommended path in green.
+
+//Format,
+-Two dimensional vecor(matrix) of elevations
+std::vector<std::vector<int>> elevations points in our path;
