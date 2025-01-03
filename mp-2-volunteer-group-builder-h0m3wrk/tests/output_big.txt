@@ -1,0 +1,3002 @@
+B-XP: 3.8, ST: 6.6, RET: 3
+Raymund
+Todd
+Fanni
+Teriann
+Derrol
+B-XP: 6, ST: 5.2, RET: 2
+Amy
+Julee
+Jaleh
+Mordecai
+Laurice
+B-XP: 5.8, ST: 6, RET: 3
+Clem
+Igor
+Ingrid
+Aharon
+Leela
+B-XP: 8, ST: 2.6, RET: 1
+Joab
+Charmian
+Barnaby
+Keefe
+Corie
+B-XP: 3.6, ST: 5.2, RET: 2
+Belle
+Doralia
+Krystal
+Conney
+Elisabet
+B-XP: 5.2, ST: 4.2, RET: 2
+Othella
+Gabey
+Rickey
+Peter
+Talia
+B-XP: 6, ST: 1.8, RET: 1
+Dolorita
+Maurita
+Karola
+Thorstein
+Koren
+B-XP: 2.4, ST: 5.2, RET: 1
+Vivianne
+Shara
+Kissee
+Juliann
+Frances
+B-XP: 4.4, ST: 5.2, RET: 4
+Donal
+Francesmary
+Mignon
+Brandice
+Roslyn
+B-XP: 7, ST: 5.8, RET: 4
+Hollis
+Casper
+Angeline
+Hunter
+Mame
+B-XP: 9, ST: 7.8, RET: 2
+Spencer
+Taffy
+Leila
+Tine
+Leontine
+B-XP: 9.2, ST: 7.2, RET: 4
+Zebulen
+Susan
+Giavani
+Brynna
+Lorine
+B-XP: 8.8, ST: 8, RET: 5
+Barthel
+Sylvie
+Israel
+Sullivan
+Halli
+B-XP: 8.6, ST: 8.6, RET: 1
+Marketa
+Paulo
+Fatima
+Elijah
+Desdemona
+B-XP: 9.4, ST: 8.8, RET: 5
+Niccolo
+Arianne
+Laurent
+Sonny
+Guglielma
+B-XP: 9.4, ST: 8.8, RET: 3
+Jerrie
+Nisa
+Dedra
+Olympie
+Ford
+B-XP: 9, ST: 9, RET: 4
+Bard
+Fionna
+Quigman
+Lucilia
+Betsy
+B-XP: 9.2, ST: 9, RET: 3
+Harrie
+Rosamund
+Pace
+Neel
+Enriqueta
+B-XP: 9, ST: 8, RET: 3
+Zippy
+Edyth
+Rosana
+Gwennie
+Burt
+B-XP: 8.6, ST: 8, RET: 3
+Melodee
+Marinna
+Sutherland
+Rozanne
+Cassi
+B-XP: 9.2, ST: 8.4, RET: 1
+Theo
+Letty
+Fowler
+Amandi
+Sashenka
+B-XP: 9.2, ST: 8.4, RET: 1
+Benetta
+Rockwell
+Natalia
+Suzetta
+Sammie
+B-XP: 8.8, ST: 7.8, RET: 4
+Leopold
+Batholomew
+Candra
+Stormi
+Nari
+B-XP: 8.6, ST: 7.6, RET: 4
+Oliver
+Duane
+Adah
+Cassaundra
+Benedikta
+B-XP: 9.2, ST: 8.2, RET: 3
+Kalil
+Mella
+Miran
+Sophia
+Audrye
+B-XP: 9.2, ST: 8.8, RET: 3
+Karita
+Selina
+Raoul
+Corissa
+Cherin
+B-XP: 8.4, ST: 8.6, RET: 0
+Brigida
+Colleen
+Trev
+Dori
+Garfinkel
+B-XP: 8.6, ST: 8.6, RET: 4
+Loria
+Phillis
+Gustavus
+Larina
+Dolly
+B-XP: 9, ST: 8.4, RET: 1
+Jameson
+Tiphany
+Amandie
+Fedora
+Donetta
+B-XP: 8.6, ST: 8.6, RET: 5
+Candy
+Mikey
+Greg
+Zorine
+Davina
+B-XP: 9.2, ST: 9, RET: 3
+Glenna
+Hiram
+Morris
+Alis
+Jemima
+B-XP: 8.8, ST: 8, RET: 4
+Maryl
+Marion
+Jemimah
+Julissa
+Husain
+B-XP: 9.4, ST: 8, RET: 3
+Melamie
+Tilly
+Maddie
+Heida
+Alan
+B-XP: 8.6, ST: 8.4, RET: 4
+Ally
+Ferne
+Calida
+Marlyn
+Suzann
+B-XP: 9.6, ST: 7.6, RET: 1
+Penn
+Devondra
+Jerri
+Sanford
+Jefferson
+B-XP: 8.8, ST: 7.8, RET: 2
+Monroe
+Margurite
+Sherie
+Obadiah
+Roseanna
+B-XP: 8.6, ST: 8.4, RET: 2
+Mandie
+Kettie
+Beauregard
+Lev
+Bertha
+B-XP: 8.8, ST: 7.8, RET: 1
+Georgina
+Angelle
+Frannie
+Isabel
+Marjorie
+B-XP: 9.6, ST: 8.4, RET: 2
+Carroll
+Raye
+Parrnell
+Eimile
+Winnie
+B-XP: 9.4, ST: 7.8, RET: 2
+Hedy
+Beverly
+Cliff
+Niels
+Tallie
+B-XP: 9, ST: 8.8, RET: 4
+Marlie
+Ludwig
+Nicolle
+Northrup
+Jenny
+B-XP: 8.8, ST: 8.2, RET: 2
+Er
+Kerstin
+Aubree
+Sherill
+Marcelo
+B-XP: 9.2, ST: 8.2, RET: 1
+Venita
+Lusa
+Shalne
+Shem
+Raf
+B-XP: 9, ST: 8.6, RET: 2
+Else
+Ely
+Partha
+Irma
+Sibbie
+B-XP: 9.2, ST: 8, RET: 3
+Jeanelle
+Agatha
+Rosanne
+Peyton
+Annabela
+B-XP: 9.4, ST: 8.8, RET: 4
+Em
+Nicki
+Hadria
+Trudi
+Carolann
+B-XP: 9.6, ST: 8.6, RET: 2
+Aridatha
+Laurella
+Anna-Diana
+Inge
+Blythe
+B-XP: 8.8, ST: 8.4, RET: 2
+Gerta
+Brana
+Joni
+Yancy
+Karlyn
+B-XP: 9, ST: 9, RET: 2
+Coral
+Newton
+Sara-Ann
+Cy
+Rachel
+B-XP: 9.4, ST: 8.2, RET: 3
+Nettie
+Nannette
+Rogers
+Pam
+Adora
+B-XP: 9, ST: 8, RET: 3
+Elna
+Ewan
+Joao
+Robin
+Monique
+B-XP: 9.2, ST: 9.2, RET: 1
+Meredeth
+Elicia
+Oran
+Cissy
+Kelcey
+B-XP: 8.8, ST: 8.4, RET: 1
+Morganne
+Kimball
+Tracey
+Trever
+Jamey
+B-XP: 9.6, ST: 8.4, RET: 2
+Natalee
+Gerty
+Jerrome
+Francis
+Evangelin
+B-XP: 9.2, ST: 9, RET: 4
+Sayres
+Ivie
+Thad
+Rana
+Beatriz
+B-XP: 9, ST: 8.2, RET: 1
+Tarzan
+Mariya
+Tammie
+Marysa
+Kristian
+B-XP: 8.8, ST: 9.2, RET: 2
+Sybille
+Tiffi
+Alameda
+Lyn
+Tommi
+B-XP: 9.2, ST: 8.2, RET: 2
+Avram
+Briteny
+Roxine
+Clemente
+Ninnette
+B-XP: 9, ST: 8.6, RET: 2
+Friedrich
+Brunella
+Breanne
+Cherey
+Darda
+B-XP: 8.6, ST: 9, RET: 1
+Larissa
+Jorey
+Ephrem
+Audry
+Izzi
+B-XP: 9.4, ST: 8.8, RET: 2
+Carlene
+Justina
+Aileen
+Isidore
+Roseann
+B-XP: 9, ST: 8.8, RET: 1
+Maria
+Annamarie
+Kane
+Samuele
+Trip
+B-XP: 9, ST: 8.2, RET: 3
+Fortune
+Madelyn
+Bartholomeo
+Row
+Gaven
+B-XP: 9.2, ST: 7.8, RET: 2
+Veronique
+Heddi
+Sabine
+Sybilla
+Robbyn
+B-XP: 9.6, ST: 9, RET: 4
+Samson
+Haskell
+Florian
+Ward
+Giorgi
+B-XP: 8.4, ST: 9.4, RET: 1
+Dulcia
+Esta
+Doralynne
+Buck
+Berni
+B-XP: 9.4, ST: 8.2, RET: 1
+Lena
+Avraham
+Porter
+Adel
+Thedrick
+B-XP: 9.4, ST: 7.6, RET: 3
+Keriann
+Angy
+Maribel
+Konstantin
+Krysta
+B-XP: 8.8, ST: 8.4, RET: 2
+Emmye
+Aleksandrs
+Madalyn
+Missie
+Cristine
+B-XP: 8.6, ST: 9, RET: 0
+Kynthia
+Reinhold
+Elias
+Eleonore
+Cindee
+B-XP: 9.4, ST: 8.4, RET: 3
+Rickie
+Lorenza
+Jean-Pierre
+Mariele
+Kamilah
+B-XP: 8.8, ST: 8.8, RET: 3
+Maisey
+Starr
+Tomasina
+Mildrid
+Lebbie
+B-XP: 9.4, ST: 8.2, RET: 2
+Dorise
+Sergio
+Hermina
+Pepito
+Krystalle
+B-XP: 9, ST: 8.2, RET: 4
+Ellissa
+Jade
+Anette
+Averell
+Clayborn
+B-XP: 8.8, ST: 8.6, RET: 4
+Valeda
+Yolande
+Abbie
+Dyanne
+Rea
+B-XP: 9.6, ST: 7.6, RET: 1
+Katusha
+Nixie
+Tiphani
+Quent
+Cristie
+B-XP: 8.8, ST: 8.8, RET: 3
+Gaby
+Evvy
+Shay
+Cassondra
+Kristel
+B-XP: 9.4, ST: 7.8, RET: 1
+Gwenn
+Herculie
+Dasie
+Shanna
+Teressa
+B-XP: 9, ST: 9.2, RET: 4
+Rachael
+Kip
+Hollie
+Kamila
+Kin
+B-XP: 8.8, ST: 8.6, RET: 3
+Bertine
+Tracy
+Minetta
+Dorolice
+Vernon
+B-XP: 9, ST: 8.2, RET: 2
+Foster
+Madel
+Mugsy
+Aurilia
+Olva
+B-XP: 9, ST: 8, RET: 2
+Brigitte
+Odette
+Baxter
+Alisa
+Ranique
+B-XP: 9.2, ST: 9, RET: 3
+Pavla
+Lincoln
+Fan
+Mathilde
+Leonie
+B-XP: 9.2, ST: 8.4, RET: 3
+Dawn
+Hercule
+Elsey
+Abe
+Wynny
+B-XP: 9.2, ST: 7.6, RET: 2
+Collete
+Iseabal
+Minny
+Ketty
+Carlye
+B-XP: 8.8, ST: 8, RET: 3
+Rachele
+Adorne
+Jacquenetta
+Josie
+Carree
+B-XP: 8.8, ST: 8.6, RET: 4
+Terrence
+Christiano
+Ronny
+Rabi
+Rice
+B-XP: 8.8, ST: 7.8, RET: 3
+Dawna
+Blinni
+Cyrus
+Mindy
+Woodman
+B-XP: 9, ST: 8.8, RET: 4
+Stearn
+Edin
+Noble
+Ernest
+Alley
+B-XP: 9, ST: 8.6, RET: 2
+Annalena
+Myrtle
+Bernadine
+Rand
+Claudio
+B-XP: 4.16667, ST: 4.66667, RET: 1
+Prudi
+Henrie
+Codee
+Dorisa
+Shawn
+Ciel
+B-XP: 3.4, ST: 3.4, RET: 3
+Linnet
+Ilysa
+Fanechka
+Maryrose
+Rosalie
+B-XP: 5, ST: 7, RET: 3
+Wendi
+Karoline
+Josselyn
+Desiree
+Theodore
+B-XP: 5.8, ST: 5.4, RET: 3
+Gwenette
+Hewet
+Teodoro
+Michaella
+Roselia
+B-XP: 3.6, ST: 1.8, RET: 2
+Saree
+Ivan
+Charleen
+Alvin
+Barbara
+B-XP: 4.4, ST: 6, RET: 3
+Winonah
+Margie
+Hartwell
+Debbra
+Hillard
+B-XP: 4, ST: 6, RET: 3
+Anabella
+Luella
+Adlai
+Krista
+Shalna
+B-XP: 6.6, ST: 5.4, RET: 3
+Avie
+Ilona
+Sheba
+Selene
+Linnell
+B-XP: 5.8, ST: 6.6, RET: 3
+Marglerite
+Alissa
+Roch
+Rustin
+Reagan
+B-XP: 4.6, ST: 5, RET: 3
+Kassandra
+Rani
+Kandace
+Wendy
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 8.66667, ST: 4.33333, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+Henrie
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel
+B-XP: 9, ST: 5, RET: 5
+Ciel
+Ciel
+Ciel
+Ciel
+Ciel

@@ -1,0 +1,150 @@
+B-XP: 4.6, ST: 6.6, RET: 2
+Pascale
+Kathryn
+Paulette
+Jerrilee
+Leroy
+B-XP: 5.2, ST: 5.4, RET: 3
+Wallis
+Marga
+Lana
+Olympe
+Spud
+B-XP: 7, ST: 7.4, RET: 1
+Moishe
+Barthel
+Goldie
+Graehme
+Clifford
+B-XP: 5, ST: 5.8, RET: 2
+Michail
+Arlie
+Kelwin
+Jaquelyn
+Marge
+B-XP: 4.6, ST: 7.4, RET: 4
+Sharla
+Jarvis
+Audrie
+Garret
+Michal
+B-XP: 3, ST: 7, RET: 0
+Michal
+Michal
+Michal
+Michal
+Michal
+B-XP: 3, ST: 7, RET: 0
+Michal
+Michal
+Michal
+Michal
+Michal
+B-XP: 3, ST: 7, RET: 0
+Michal
+Michal
+Michal
+Michal
+Michal
+B-XP: 3, ST: 7, RET: 0
+Michal
+Michal
+Michal
+Michal
+Michal
+B-XP: 3, ST: 7, RET: 0
+Michal
+Michal
+Michal
+Michal
+Michal
+B-XP: 3, ST: 7, RET: 0
+Michal
+Michal
+Michal
+Michal
+Michal
+B-XP: 3, ST: 7, RET: 0
+Michal
+Michal
+Michal
+Michal
+Michal
+B-XP: 3, ST: 7, RET: 0
+Michal
+Michal
+Michal
+Michal
+Michal
+B-XP: 3, ST: 7, RET: 0
+Michal
+Michal
+Michal
+Michal
+Michal
+B-XP: 3, ST: 7, RET: 0
+Michal
+Michal
+Michal
+Michal
+Michal
+B-XP: 3, ST: 7, RET: 0
+Michal
+Michal
+Michal
+Michal
+Michal
+B-XP: 3, ST: 7, RET: 0
+Michal
+Michal
+Michal
+Michal
+Michal
+B-XP: 3, ST: 7, RET: 0
+Michal
+Michal
+Michal
+Michal
+Michal
+B-XP: 3, ST: 7, RET: 0
+Michal
+Michal
+Michal
+Michal
+Michal
+B-XP: 3, ST: 7, RET: 0
+Michal
+Michal
+Michal
+Michal
+Michal
+B-XP: 3, ST: 7, RET: 0
+Michal
+Michal
+Michal
+Michal
+Michal
+B-XP: 3, ST: 7, RET: 0
+Michal
+Michal
+Michal
+Michal
+Michal
+B-XP: 3, ST: 7, RET: 0
+Michal
+Michal
+Michal
+Michal
+Michal
+B-XP: 3, ST: 7, RET: 0
+Michal
+Michal
+Michal
+Michal
+Michal
+B-XP: 3, ST: 7, RET: 0
+Michal
+Michal
+Michal
+Michal
+Michal
